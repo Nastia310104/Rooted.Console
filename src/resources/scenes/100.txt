@@ -1,0 +1,8 @@
+HOW TO PLAY
+
+To choose an action, simply enter the number standing before the action.
+
+Some questions require you to type your answer directly into the terminal.
+Please press enter after you finish typing.
+
+To exit the game, press Ctrl + C.
